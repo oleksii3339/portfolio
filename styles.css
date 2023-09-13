@@ -119,9 +119,7 @@ background-position: center;
 
 
 /* About Us */
-.about h2,h3{
-    margin-bottom: 20px;
-}
+
 
 .about li a {
     color: #000;
@@ -138,9 +136,7 @@ background-position: center;
 .about li a:hover{
     color: #EE8683;
 }
-.list-inline{
-    margin-top: 30px;
-}
+
 
 /* Experience Section */
 .exp-class .progress{
